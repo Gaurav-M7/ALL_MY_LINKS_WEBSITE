@@ -1,5 +1,7 @@
 # GAURAV MAPARI // ARCHETYPE
 A premium, highly interactive personal link-in-bio website inspired by anime character GFX (Graphic Effects) and edit poster aesthetics. Featuring brutalist typography, dynamic CRT effects, scanline grids, and responsive split-screen layouts.
+
+LIVE PREVIEW OF WEBSITE :https://gauravmapari.netlify.app/
 ---
 ## 🎨 Visual Aesthetics & Design
 This project departs from traditional minimal link-in-bio setups to offer a unique visual experience:
